@@ -1,5 +1,7 @@
 # Brain-Tumor-Detection
 This research produced 2 applications where the application has the .ipynb extension which can be run on Google Colabs and 1 more application which is a website as a prototype which can be extracted at https://telkomuniversityofficial-my.sharepoint.com/:u:/g/personal/faizrofihencya_student_telkomuniversity_ac_id/EW55ZNHaRClKiIUp9nwqWhMBIdrcWdb4BOV0vyl_TZP_bg?e=RshFfU
+<br/>
+how to run the prototype will be explained below
 
 ## DATASET
 Dataset for train & validation set https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=downloa 
